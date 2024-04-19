@@ -1,5 +1,3 @@
-Certainly! Here's an updated version of the README file with added information about gesture recognition using the Mediapipe library in Python:
-
 ---
 
 # LED Controller with Gesture Recognition
